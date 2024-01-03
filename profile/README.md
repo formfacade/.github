@@ -17,4 +17,5 @@ You are a startup founder or a project owner, who likes to move fast. So, you qu
 
 ➤ Analyze where users are dropping off using session recording tools
 
-Visit our website [formfacade.com](https://formfacade.com/) to learn about the customization features or write to support@formfacade.com for questions.
+### Support
+For support, email support@formfacade.com
